@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emerzon Javier Kolki Martinez</h1>
-<h3 align="center">A passionate Full-Stack develop from Perú</h3>
+<h3 align="center">A passionate Full-Stack developer from Perú</h3>
 
 - 🔭 I’m currently working on [YouTube Clone API](https://github.com/JasonCrk/YouTubeCloneApi)
 
