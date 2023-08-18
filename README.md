@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [YouTube Clone API](https://github.com/JasonCrk/YouTubeCloneApi)
 
-- 🌱 I’m currently learning **Django and Laravel**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **React, Typescript, Express.js, Python, Django**
 
