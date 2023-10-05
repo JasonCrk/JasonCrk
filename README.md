@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Youtube Clone API](https://github.com/JasonCrk/YouTubeCloneApi)
 
-- 🌱 I’m currently learning **PHP & Laravel**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **React, Typescript, NodeJS, ExpressJS, Python, PostgreSQL, MySQL & MongoDB**
 
