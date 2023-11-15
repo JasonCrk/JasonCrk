@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerzon Javier Kolki Martinez</h1>
 <h3 align="center">Full Stack developer from Peru</h3>
 
-- 🔭 I’m currently working on [Master Event Planner API](https://github.com/JasonCrk/EventScheduler_API), [Master Event Planner APP](https://github.com/JasonCrk/MasterEventPlannerApp), [Control Interno de Almacen API](https://github.com/JasonCrk/Control-Interno-Almacen-Api) & [Control Interno de Almacen APP](https://github.com/JasonCrk/Control-Interno-Almacen-App)
+- 🔭 I’m currently working on [Master Event Planner API](https://github.com/JasonCrk/EventScheduler_API) & [Master Event Planner APP](https://github.com/JasonCrk/MasterEventPlannerApp)
 
 - 🌱 I’m currently learning **Spring Boot**
 
