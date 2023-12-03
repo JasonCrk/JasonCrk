@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Youtube Clone API](https://github.com/JasonCrk/YouTubeCloneApi) & [Youtube Clone APP](https://github.com/JasonCrk/YoutubeCloneApp)
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Django** & **Vitest**
 
 - 💬 Ask me about **React, Typescript, NodeJS, ExpressJS, Java, Spring Boot, Python, PostgreSQL, MySQL & MongoDB**
 
