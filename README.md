@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerzon Javier Kolki Martinez</h1>
 <h3 align="center">Full Stack developer from Peru</h3>
 
-- 🔭 I’m currently working on [Master Event Planner API](https://github.com/JasonCrk/EventScheduler_API) & [Master Event Planner APP](https://github.com/JasonCrk/MasterEventPlannerApp)
+- 🔭 I’m currently working on [Youtube Clone API](https://github.com/JasonCrk/YouTubeCloneApi) & [Youtube Clone APP](https://github.com/JasonCrk/YoutubeCloneApp)
 
 - 🌱 I’m currently learning **Spring Boot**
 
