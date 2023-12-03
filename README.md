@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Youtube Clone API](https://github.com/JasonCrk/YouTubeCloneApi) & [Youtube Clone APP](https://github.com/JasonCrk/YoutubeCloneApp)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **React, Typescript, NodeJS, ExpressJS, Python, PostgreSQL, MySQL & MongoDB**
+- 💬 Ask me about **React, Typescript, NodeJS, ExpressJS, Java, Spring Boot, Python, PostgreSQL, MySQL & MongoDB**
 
 - 📫 How to reach me **emerzonkolki@gmail.com**
 
