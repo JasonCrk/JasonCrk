@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular 16 & 17**
 
-- 💬 Ask me about **React, Typescript, NodeJS, ExpressJS, Java, Spring Boot, Python, PostgreSQL, MySQL & MongoDB**
-
 - 📫 How to reach me **emerzonkolki@gmail.com**
 
 - ⚡ Fun fact **I'm autodidactic**
