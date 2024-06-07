@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Youtube Clone - App](https://github.com/JasonCrk/YoutubeCloneApp) & [Youtube Clone - Api](https://github.com/JasonCrk/YouTubeCloneApi)
 
-- 🌱 I’m currently learning **Angular 16 & 17**
+- 🌱 I’m currently learning **Algorithms and data structures**
 
 - 📫 How to reach me **emerzonkolki@gmail.com**
 
