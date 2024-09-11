@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emerzon Javier Kolki Martinez</h1>
-<h3 align="center">Full Stack developer from Peru</h3>
+<h3 align="center">Full Stack / Backend developer from Peru</h3>
 
-- 🔭 I’m currently working on [Youtube Clone - App](https://github.com/JasonCrk/YoutubeCloneApp) & [Youtube Clone - Api](https://github.com/JasonCrk/YouTubeCloneApi)
+- 🔭 I’m currently working on __DEXtremeFlow (site project)__
 
-- 🌱 I’m currently learning **Algorithms and data structures**
+- 🌱 I’m currently learning **Microservices, Cloud (Azure) and always algorithms and data structures**
 
 - 📫 How to reach me **emerzonkolki@gmail.com**
 
