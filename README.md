@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerzon Javier Kolki Martinez</h1>
 <h3 align="center">Full Stack / Backend developer from Peru</h3>
 
-- 🔭 I’m currently working on __AutoTasks (site project)__
+- 🔭 I’m currently working on __AutoTasks (site project) & Shoe Ecommmerce (site project)__
 
 - 🌱 I’m currently learning **Microservices, Cloud (Azure) and always algorithms and data structures**
 
